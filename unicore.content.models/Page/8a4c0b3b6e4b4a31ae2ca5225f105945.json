@@ -10,8 +10,8 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -20,10 +20,10 @@
   "source": null, 
   "featured": false, 
   "author_tags": [], 
-  "image": "54dd25fe8e2d480da23eda20724a6213", 
+  "image": "0c9e9fcfa0674112829c34e02df80d14", 
   "published": null, 
   "position": 6, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "elizabeth-toluca-estado-de-mexico", 
   "uuid": "8a4c0b3b6e4b4a31ae2ca5225f105945"
 }
