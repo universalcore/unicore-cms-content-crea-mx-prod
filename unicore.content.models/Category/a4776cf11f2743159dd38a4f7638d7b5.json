@@ -3,18 +3,18 @@
   "uuid": "a4776cf11f2743159dd38a4f7638d7b5", 
   "language": "spa_MX", 
   "title": "Nosotros", 
-  "image": "58844de76f514f9f814be29ace902195", 
+  "image": "d9350b2954bb4b96b2ac68f9779c767e", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "nosotros", 
   "source": null, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "featured_in_navbar": true, 
   "id": null
 }
