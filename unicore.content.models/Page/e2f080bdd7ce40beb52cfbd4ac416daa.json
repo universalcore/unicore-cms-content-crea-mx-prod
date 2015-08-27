@@ -1,17 +1,17 @@
 {
   "subtitle": "Empoderando mujeres d\u00eda a d\u00eda.", 
-  "description": "", 
+  "description": "Empoderando mujeres d\u00eda a d\u00eda.", 
   "language": "spa_MX", 
   "title": "\u00bfQu\u00e9 hacemos?", 
   "primary_category": "a4776cf11f2743159dd38a4f7638d7b5", 
   "created_at": "2015-06-09T18:05:25+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-27T15:31:32.764297+00:00", 
+  "modified_at": "2015-08-27T15:40:57.430727+00:00", 
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
