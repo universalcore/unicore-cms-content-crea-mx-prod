@@ -10,11 +10,20 @@
   "_version": {
     "package_version": "1.2.0", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "6b395681d26c441d996b39eaf69c711c", 
+    "4241919c09f54f03abbd47cc93b36e40", 
+    "6afadb0111174099b1221e34831a2f37", 
+    "1efaf7dec462408694c7d33d2e83e817", 
+    "eb0cb18e4c1c4ca5bbfac2acfb72eebf", 
+    "a170d8dae34e42b2bbf6b5a25f27d226", 
+    "02dcdc0b3ff64efd8fcd1f407ea04dbf", 
+    "8a4c0b3b6e4b4a31ae2ca5225f105945"
+  ], 
   "id": null, 
   "content": "Elizabeth Garc\u00eda tiene 30 a\u00f1os y estableci\u00f3 una escuela de danza en su propio domicilio. En Mujeres Moviendo M\u00e9xico no s\u00f3lo pudo acceder a cursos y talleres que le dieron herramientas para el manejo de su negocio, tambi\u00e9n pudo conocer a otras mujeres empresarias como ella y replantearse sus sue\u00f1os y planes para su negocio. \r\n\r\nDespu\u00e9s de tomar el curso en Iniciativa Personal, ha decidido certificar su escuela y ampliar la oferta de talleres para incluir otros tipos de danzas. Asimismo, esta experiencia la motiv\u00f3 para hacer un cambio en su comunidad y ahora busca desarrollar un proyecto con j\u00f3venes de zonas marginadas, que a trav\u00e9s de la danza les permita alejarse de las drogas y de la delincuencia.", 
   "source": null, 
